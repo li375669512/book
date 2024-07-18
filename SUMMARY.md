@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction1](README.MD)
 * [基本安装](howtouse/README.md)
     * [Node.js安装](howtouse/Node安装.md)
     * [Gitbook安装](howtouse/Gitbook安装.md)
