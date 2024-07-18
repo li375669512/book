@@ -38,10 +38,6 @@
         "insert-logo": {
             "url": "image/logo.png",
             "style": "background: none; max-height: 30px; min-height: 30px"
-        },
-        "lightbox": {
-            "includeJQuery": false,
-            "sameUuid": true
         }
     }
 }
