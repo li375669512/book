@@ -1,3 +1,16 @@
 {
-    "plugins": ["expandable-chapters"]
+    "plugins": ["expandable-chapters", "-lunr", "-search", "search-pro", "splitter", "copy-code-button", "code", "alerts", "auto-scroll-table", "tbfed-pagefooter", "back-to-top-button", "disqus"],
+    "pluginsConfig": {
+        "code": {
+            "copyButtons": false
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright ©libowen",
+            "modify_label": "更新时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "disqus": {
+            "shortName": "gitbook-tutorial"
+        }
+    }
 }
