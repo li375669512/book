@@ -1,4 +1,4 @@
-# Introduction2
+# Introduction
 
 ## Gitbook 使用入门
 

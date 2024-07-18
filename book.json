@@ -1,5 +1,5 @@
 {
-    "plugins": ["expandable-chapters", "-lunr", "-search", "search-pro", "splitter", "copy-code-button", "code", "alerts", "auto-scroll-table", "tbfed-pagefooter", "back-to-top-button", "disqus"],
+    "plugins": ["expandable-chapters", "-lunr", "-search", "search-pro", "splitter", "copy-code-button", "code", "alerts", "auto-scroll-table", "tbfed-pagefooter", "back-to-top-button", "disqus", "baidu-tongji-with-multiple-channel"],
     "pluginsConfig": {
         "code": {
             "copyButtons": false
@@ -11,6 +11,9 @@
         },
         "disqus": {
             "shortName": "gitbook-tutorial"
+        },
+        "baidu-tongji-with-multiple-channel": {
+            "token": "73be72a36cee8ef8daa9843c7861cecc"
         }
     }
 }
