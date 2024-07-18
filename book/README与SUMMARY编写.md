@@ -17,7 +17,7 @@ SUMMARY.md
 这个文件相对于是一本书的目录结构。比如我们这本书的SUMMARY.md :
 
 ## Summary
-
+```
 * [Introduction](README.md)
 * [基本安装](howtouse/README.md)
    * [Node.js安装](howtouse/nodejsinstall.md)
@@ -32,4 +32,5 @@ SUMMARY.md
 * [发布](publish/README.md)
    * [发布到Github Pages](publish/gitpages.md)
 * [结束](end/README.md)
+```
 SUMMARY.md基本上是列表加链接的语法。链接中可以使用目录，也可以使用。
