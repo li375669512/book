@@ -14,7 +14,8 @@
         "baidu-tongji-with-multiple-channel", 
         "anchor-navigation-ex", 
         "hide-element", 
-        "pageview-count"],
+        "pageview-count",
+        "insert-logo"],
     "pluginsConfig": {
         "code": {
             "copyButtons": false
@@ -31,12 +32,12 @@
             "token": "73be72a36cee8ef8daa9843c7861cecc"
         },
         "anchor-navigation-ex": {
-            "showLevel": false, 
+            "showLevel": true, 
             "showGoTop": false
         },
         "insert-logo": {
-            "url": "image/logo.png",
-            "style": "background: none; max-height: 30px; min-height: 30px"
+          "url": "./image/logo.png",
+          "style": "background: none; max-height: 100px; min-height: 30px"
         }
     }
 }
