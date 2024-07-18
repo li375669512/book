@@ -41,11 +41,7 @@
         },
         "lightbox": {
             "includeJQuery": false,
-            "sameUuid": true,
-            "options": {
-                "resizeDuration": 500,
-                "wrapAround": false
-            }
+            "sameUuid": true
         }
     }
 }
