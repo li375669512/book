@@ -36,7 +36,7 @@
             "showGoTop": false
         },
         "insert-logo": {
-          "url": "/image/logo.png",
+          "url": "https://github.com/li375669512/book/blob/main/image/logo.png",
           "style": "background: none; max-height: 100px; min-height: 30px"
         }
     }
