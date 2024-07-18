@@ -36,7 +36,7 @@
             "showGoTop": false
         },
         "insert-logo": {
-          "url": "./image/logo.png",
+          "url": "/image/logo.png",
           "style": "background: none; max-height: 100px; min-height: 30px"
         }
     }
