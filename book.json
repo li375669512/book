@@ -38,6 +38,12 @@
         "insert-logo": {
             "url": "image/logo.png",
             "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "lightbox": {
+            "options": {
+                "resizeDuration": 500,
+                "wrapAround": false
+            }
         }
     }
 }
