@@ -7,7 +7,7 @@
             "resizeDuration": 500,
             "wrapAround": false
         }
-    }
+    },
     "pluginsConfig": {
         "code": {
             "copyButtons": false
