@@ -1,5 +1,5 @@
 {
-    "plugins": ["expandable-chapters", "-lunr", "-search", "search-pro", "splitter", "copy-code-button", "code", "alerts", "auto-scroll-table", "tbfed-pagefooter", "back-to-top-button", "disqus", "baidu-tongji-with-multiple-channel"],
+    "plugins": ["expandable-chapters", "-lunr", "-search", "search-pro", "splitter", "copy-code-button", "code", "alerts", "auto-scroll-table", "tbfed-pagefooter", "back-to-top-button", "disqus", "baidu-tongji-with-multiple-channel", "lightbox", "anchor-navigation-ex", "hide-element", "pageview-count"],
     "pluginsConfig": {
         "code": {
             "copyButtons": false
@@ -14,6 +14,22 @@
         },
         "baidu-tongji-with-multiple-channel": {
             "token": "73be72a36cee8ef8daa9843c7861cecc"
+        },
+        "anchor-navigation-ex": {
+            "showLevel": true, 
+            "showGoTop": false
+        },
+        "insert-logo": {
+            "url": "image/logo.png",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "lightbox": {
+            "includeJQuery": false,
+            "sameUuid": true,
+            "options": {
+                "resizeDuration": 500,
+                "wrapAround": false
+            }
         }
     }
 }
