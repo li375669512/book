@@ -1,13 +1,21 @@
 {
-    "plugins": ["expandable-chapters", "-lunr", "-search", "search-pro", "splitter", "copy-code-button", "code", "alerts", "auto-scroll-table", "tbfed-pagefooter", "back-to-top-button", "disqus", "baidu-tongji-with-multiple-channel", "lightbox", "anchor-navigation-ex", "hide-element", "pageview-count"],
-    "lightbox": {
-        "includeJQuery": false,
-        "sameUuid": true,
-        "options": {
-            "resizeDuration": 500,
-            "wrapAround": false
-        }
-    },
+    "plugins": ["expandable-chapters", 
+        "-lunr", 
+        "-search", 
+        "search-pro", 
+        "splitter", 
+        "copy-code-button", 
+        "code", 
+        "alerts", 
+        "auto-scroll-table", 
+        "tbfed-pagefooter", 
+        "back-to-top-button", 
+        "disqus", 
+        "baidu-tongji-with-multiple-channel", 
+        "lightbox", 
+        "anchor-navigation-ex", 
+        "hide-element", 
+        "pageview-count"],
     "pluginsConfig": {
         "code": {
             "copyButtons": false
@@ -30,6 +38,14 @@
         "insert-logo": {
             "url": "image/logo.png",
             "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "lightbox": {
+            "includeJQuery": false,
+            "sameUuid": true,
+            "options": {
+                "resizeDuration": 500,
+                "wrapAround": false
+            }
         }
     }
 }
