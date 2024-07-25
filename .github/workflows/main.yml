@@ -35,7 +35,7 @@ jobs:
         MYNAME: ${{ github.repository_owner }}          
       run: |
         cd _book
-        cp html _book
+        cp -r html _book
         git config --global user.email "${MYEMAIL}"
         git config --global user.name "${MYNAME}"
         git init
