@@ -31,3 +31,5 @@ Success styling
 > **[success] For info**
 >
 > Use this for success messages.
+
+<p><iframe style="width: 100%; height: 300px;" src="https://demo.xiaohuochai.site/css/transition/t4.html" frameborder="0" width="320" height="240"></iframe></p>
